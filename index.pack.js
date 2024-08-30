@@ -534,7 +534,7 @@ function Footer() {
         null,
         _react2.default.createElement("a", { href: "https://www.linkedin.com/in/jeremytipton1/", target: "_blank", rel: "noreferrer",
             className: "fa-brands fa-linkedin footer-icon" }),
-        _react2.default.createElement(Link, { to: "https://github.com/tiptonspiderj", target: "_blank", rel: "noreferrer",
+        _react2.default.createElement("a", { to: "https://github.com/tiptonspiderj", target: "_blank", rel: "noreferrer",
             className: "fa-brands fa-square-github footer-icon" })
     );
 }
