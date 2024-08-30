@@ -5,7 +5,7 @@ function Footer(){
         <footer>
             <a href="https://www.linkedin.com/in/jeremytipton1/" target="_blank" rel="noreferrer" 
             className="fa-brands fa-linkedin footer-icon"></a>
-            <a to="https://github.com/tiptonspiderj" target="_blank" rel="noreferrer" 
+            <a href="https://github.com/tiptonspiderj" target="_blank" rel="noreferrer" 
             className="fa-brands fa-square-github footer-icon"></a>
         </footer>
     )
