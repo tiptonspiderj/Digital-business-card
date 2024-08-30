@@ -13,11 +13,11 @@ function Info() {
                         <i className="fa-solid fa-envelope main-icon"></i>
                     Email</button>
                 </a>
-                <Link  to="https://www.linkedin.com/in/jeremytipton1/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/jeremytipton1/" target="_blank" rel="noopener noreferrer">
                     <button type="button" className="linkedin">
                         <i className="fa-brands fa-linkedin main-icon"></i>
                     LinkedIn</button>
-                </Link>
+                </a>
             </div>
         </main>
     )
