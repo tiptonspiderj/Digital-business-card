@@ -13,7 +13,7 @@ function Info() {
                         <i className="fa-solid fa-envelope main-icon"></i>
                     Email</button>
                 </a>
-                <a href="https://www.linkedin.com/in/jeremytipton1/" target="_blank">
+                <a href="https://www.linkedin.com/in/jeremytipton1/" target="_blank" rel="noopener noreferrer">
                     <button type="button" className="linkedin">
                         <i className="fa-brands fa-linkedin main-icon"></i>
                     LinkedIn</button>
