@@ -6,7 +6,7 @@ function Info() {
             <img src="./images/businessCard.png" className="main-image"/>
             <h1 className="name">Jeremy Tipton</h1>
             <h3 className="job">Frontend Developer</h3>
-            <p className="website">Link: <a href="https://tiptonspiderj1.com/" target={_blank} rel="noreferrer">My website</a></p>
+            <p className="website">Link: <a href="https://tiptonspiderj1.com/" target="_blank" rel="noreferrer">My website</a></p>
             <div className="buttons">
                 <a href="mailto:tiptonspiderj1@aol.com">
                     <button type="button" className="email">

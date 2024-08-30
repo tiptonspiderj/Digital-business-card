@@ -532,9 +532,10 @@ function Footer() {
     return _react2.default.createElement(
         "footer",
         null,
-        _react2.default.createElement("a", { href: "https://www.linkedin.com/in/jeremytipton1/",
+        _react2.default.createElement("a", { href: "https://www.linkedin.com/in/jeremytipton1/", target: "_blank", rel: "noreferrer",
             className: "fa-brands fa-linkedin footer-icon" }),
-        _react2.default.createElement("a", { href: "https://github.com/tiptonspiderj", className: "fa-brands fa-square-github footer-icon" })
+        _react2.default.createElement(Link, { to: "https://github.com/tiptonspiderj", target: "_blank", rel: "noreferrer",
+            className: "fa-brands fa-square-github footer-icon" })
     );
 }
 
@@ -578,7 +579,7 @@ function Info() {
             "Link: ",
             _react2.default.createElement(
                 "a",
-                { href: "https://tiptonspiderj1.com/" },
+                { href: "https://tiptonspiderj1.com/", target: "_blank", rel: "noreferrer" },
                 "My website"
             )
         ),
@@ -597,7 +598,7 @@ function Info() {
             ),
             _react2.default.createElement(
                 "a",
-                { href: "https://www.linkedin.com/in/jeremytipton1/" },
+                { href: "https://www.linkedin.com/in/jeremytipton1/", target: "_blank", rel: "noreferrer" },
                 _react2.default.createElement(
                     "button",
                     { type: "button", className: "linkedin" },
