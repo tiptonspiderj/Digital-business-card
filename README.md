@@ -17,7 +17,7 @@ You can make a clone of this repository and then extract all of the files into o
 
 ### Dependencies
 
-None
+This project was made with React and Webpack as the compiler.  It also use npm to manage all of the dependencies required.  I would now recommend using Vite as the compiler instead of Webpack.  It's quicker than Webpack.  When you are developing a project, it makes a big difference in the amount of time spent waiting to update your changes as you progress through your project.  
 
 ## Color Reference
 
