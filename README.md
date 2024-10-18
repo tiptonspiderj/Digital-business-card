@@ -3,7 +3,7 @@ This was a fun project for building a digital business card with links to my e-m
 
 ## Description
 
-A very unique way of carrying a business card.  I can now just text a link to people and they will have most of my contact information.  Maybel later I will add my phone number to this project.
+A unique way of carrying a business card.  I can now just text a link to people and they will have most of my contact information.  Maybel later I will add my phone number to this project.
 
 ## Getting Started
 
