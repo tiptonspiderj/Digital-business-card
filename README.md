@@ -23,11 +23,11 @@ This project was made with React and Webpack as the compiler.  It also use npm t
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Background Color | ![#23252C](https://imageplaceholder.net/10x10/23252C) #23252C |
-| Background Color | ![#1A1B21](https://imageplaceholder.net/10x10/1A1B21) #1A1B21 |
-| Text Color | ![#DCDCDC](https://imageplaceholder.net/10x10/DCDCDC) #DCDCDC |
-| Button Color | ![#5093E2](https://imageplaceholder.net/10x10/5093E2) #5093E2 |
-| Button Color | ![#F5F5F5](https://imageplaceholder.net/10x10/F5F5F5) #F5F5F5 |
+| Background Color | ![#23252c](https://imageplaceholder.net/10x10/23252c) #23252c |
+| Background Color | ![#1a1b21](https://imageplaceholder.net/10x10/1a1b21) #1a1b21 |
+| Text Color | ![#dcdcdc](https://imageplaceholder.net/10x10/dcdcdc) #dcdcdc |
+| Button Color | ![#5093e2](https://imageplaceholder.net/10x10/5093e2) #5093e2 |
+| Button Color | ![#f5f5f5](https://imageplaceholder.net/10x10/f5f5f5) #f5f5f5 |
 
 
 ## Authors
