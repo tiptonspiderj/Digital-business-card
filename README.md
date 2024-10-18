@@ -24,7 +24,7 @@ This project was made with React and Webpack as the compiler.  It also use npm t
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Background Color | ![#23252c](https://imageplaceholder.net/10x10/23252c) #23252c |
-| Background Color | ![#1a1b21](https://imageplaceholder.net/10x10/1a1b21) #1a1b21 |
+| Card Background Color | ![#1a1b21](https://imageplaceholder.net/10x10/1a1b21) #1a1b21 |
 | Text Color | ![#dcdcdc](https://imageplaceholder.net/10x10/dcdcdc) #dcdcdc |
 | Button Color | ![#5093e2](https://imageplaceholder.net/10x10/5093e2) #5093e2 |
 | Button Color | ![#f5f5f5](https://imageplaceholder.net/10x10/f5f5f5) #f5f5f5 |
