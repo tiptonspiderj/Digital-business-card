@@ -1,15 +1,15 @@
-# Password Generator
-This application will provide two random passwords per your specifications.  
+# Digital Business Card
+This was a fun project for building a digital business card with links to my e-mail, LinkedIn profile, and my portfolio website.
 
 ## Description
 
-If you don't trust big company's to provide unique random passowrds, then this is the program for you.  If you combine this with my Passman application built in Java, then you will never forget a password again.  Your accounts will never be hacked.  This program makes creating a unique, random password effortless.
+A very unique way of carrying a business card.  I can now just text a link to people and they will have most of my contact information.  Maybel later I will add my phone number to this project.
 
 ## Getting Started
 
 Click on the image below to see the live website.
 
-[![application images](https://github.com/tiptonspiderj/Password-Generator/blob/main/image/Screenshot.png)](https://tiptonspiderj-passwordgenerator.netlify.app/)
+[![application images](https://github.com/tiptonspiderj/Digital-business-card/blob/main/image/Screenshot.png)](https://tiptonspiderj1-digital-business-card.netlify.app/)
 
 ### Installing for Windows
 
